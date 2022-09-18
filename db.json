@@ -1,0 +1,77 @@
+{
+  "productList": [
+    {
+      "productName": "Mango",
+      "category": "fruits",
+      "fresh": "Brand New",
+      "price": 60,
+      "comment": "Mango is the king of all fruits.",
+      "date": "2022-09-15T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Samsung",
+      "category": "electronics",
+      "fresh": "Second Hand",
+      "price": 10000,
+      "comment": "Awesome mobile phone",
+      "date": "2022-08-31T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Potato",
+      "category": "vegetable",
+      "fresh": "Brand New",
+      "price": 40,
+      "comment": "King of all the vegetable",
+      "date": "2022-09-07T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "lady finger",
+      "category": "vegetable",
+      "fresh": "Brand New",
+      "price": 40,
+      "comment": "It is very healthy",
+      "date": "2022-09-15T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Vivo",
+      "category": "electronics",
+      "fresh": "Refurbish",
+      "price": 6000,
+      "comment": "Average mobile phone",
+      "date": "2022-07-02T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Banana",
+      "category": "fruits",
+      "fresh": "Brand New",
+      "price": 60,
+      "comment": "Calcium Reach",
+      "date": "2022-09-13T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "Refrigerator",
+      "category": "electronics",
+      "fresh": "Refurbish",
+      "price": 12000,
+      "comment": "Good Condition",
+      "date": "2021-10-19T18:30:00.000Z",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
